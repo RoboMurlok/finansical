@@ -1,8 +1,18 @@
 import { useState } from "react";
 import "./CookieBanner.css";
+import "./CookieBanner.css";
 
 export default function FakeCookieBanner() {
-  const [visible, setVisible] = useState(true);
+ 
+  const [visible, setVisible] = useState(() => {
+    const accepted = sessionStorage.getItem("cookieBannerAccepted");
+    return !accepted; 
+  });
+
+  const handleClose = () => {
+    sessionStorage.setItem("cookieBannerAccepted", "true");
+    setVisible(false);
+  };
 
   if (!visible) return null;
 
@@ -12,8 +22,9 @@ export default function FakeCookieBanner() {
         This website uses cookies to enhance your experience. By continuing to
         browse, you agree to our use of cookies.
       </p>
-      <button onClick={() => setVisible(false)}>Accept</button>
-      <button onClick={() => setVisible(false)}>Cancel</button>
+      <button onClick={handleClose}>Accept</button>
+      <button onClick={handleClose}>Cancel</button>
     </div>
   );
 }
+
