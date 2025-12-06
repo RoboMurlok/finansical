@@ -1,0 +1,350 @@
+{
+  "navlink": [
+    {
+      "name": "Home",
+      "label": "Inicio",
+      "url": "/",
+      "index": true,
+      "component": "Home"
+    },
+    {
+      "name": "About",
+      "label": "Acerca de",
+      "url": "/about",
+      "component": "About"
+    },
+    {
+      "name": "Services",
+      "label": "Servicios",
+      "url": "/services",
+      "component": "Services"
+    },
+    {
+      "name": "Experts",
+      "label": "Expertos",
+      "url": "/experts",
+      "component": "Experts"
+    },
+    {
+      "name": "Blog",
+      "label": "Blog",
+      "url": "/blog",
+      "component": "Blog"
+    }
+  ],
+  "logo": "Finansical",
+  "meta": "Enfoque educativo seguro para las finanzas,Materiales educativos sobre educación financiera y planificación responsable. Sin promesas de ingresos ni exageraciones publicitarias.",
+  "hero": {
+    "title": "Asesores Financieros de Confianza",
+    "subtitle": "Ofrecemos asistencia financiera profesional.",
+    "button": {
+      "text": "Comenzar",
+      "to": "/experts"
+    },
+    "image": "https://www.bankrate.com/2023/03/28173011/GettyImages-1460296966.jpeg?auto=webp&optimize=high&crop=16:9"
+  },
+
+  "home": {
+    "hero": {
+      "title": "Obtén ayuda profesional",
+      "subtitle": "Si tienes algún desafío financiero, no dudes en contactar a nuestros profesionales.",
+      "button": {
+        "text": "Comenzar",
+        "to": "/experts"
+      },
+      "image": "https://images.squarespace-cdn.com/content/v1/67c74c9abd30255a47317118/feac0abc-f14c-414f-9bb5-8b61913514f6/iStock-1367867792.jpg"
+    },
+
+    "section_1": {
+      "title": "Hola y Bienvenido a ",
+      "subtitle_1": "Estamos listos para ayudarte a mejorar el rendimiento de tu negocio, analizar oportunidades financieras y obtener capital para seguir creciendo.",
+      "subtitle_2": "Financial se especializa en asesoría y gestión financiera, análisis e inversiones, estructuración de acuerdos y obtención de capital.",
+      "vidgets": [
+        {
+          "title": "Impacto 1",
+          "subtitle": "Ayudamos a miles de clientes a resolver sus problemas financieros más difíciles",
+          "link": "/about"
+        },
+        {
+          "title": "Impacto 2",
+          "subtitle": "Brindamos servicios profesionales tanto para empresas como para particulares.",
+          "link": "/about"
+        },
+        {
+          "title": "Impacto 3",
+          "subtitle": "Nuestros expertos tienen experiencia en una gran variedad de industrias.",
+          "link": "/about"
+        }
+      ]
+    },
+
+    "section_2": {
+      "title": "Convertimos información en acciones",
+      "subtitle": "Estamos listos para ayudarte a mejorar el rendimiento de tu negocio, analizar oportunidades financieras y obtener capital para seguir creciendo.",
+      "context": "PPG Financial es una empresa líder que ofrece servicios de gestión patrimonial y consultoría de primera clase en diversos sectores. Aplicamos un enfoque integral y prestamos máxima atención para satisfacer las necesidades financieras de cada cliente y superar sus expectativas.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhVfa61BSYoDPN5MSjBqyRWjetKWGdA64cxA&s",
+      "vidgets": [
+        {
+          "title": "Misión",
+          "subtitle": "Creemos que la información oportuna es la clave para la prosperidad. Los asesores dedicados te ayudan a avanzar.",
+          "link": "/experts"
+        },
+        {
+          "title": "Visión",
+          "subtitle": "Estamos comprometidos con la satisfacción del cliente y nos esforzamos por generar un impacto financiero positivo en la vida de nuestros clientes.",
+          "link": "/experts"
+        },
+        {
+          "title": "Valores",
+          "subtitle": "Nos comprometemos con la excelencia, la transparencia y la integridad en nuestro trabajo.",
+          "link": "/experts"
+        }
+      ]
+    },
+
+    "section_3": {
+      "title": "Los asesores te ayudan a tomar decisiones informadas",
+      "button": {
+        "text": "Comenzar",
+        "to": "/experts"
+      }
+    },
+
+    "section_4": {
+      "title": "Servicios más populares",
+      "subtitle": "Explora los servicios básicos que ofrecemos. También brindamos soluciones personalizadas.",
+      "cards": [
+        {
+          "icon": "https://cdn-icons-png.freepik.com/256/17609/17609510.png?semt=ais_white_label",
+          "title": "Estrategia y Planificación",
+          "subtitle": "Nuestros expertos te ofrecen planes financieros orientados a resultados.",
+          "link": "/experts"
+        },
+        {
+          "icon": "https://cdn-icons-png.freepik.com/256/17609/17609510.png?semt=ais_white_label",
+          "title": "Asignación de Activos",
+          "subtitle": "Te ayudamos a decidir dónde poner el dinero a trabajar en el mercado.",
+          "link": "/experts"
+        },
+        {
+          "icon": "https://cdn-icons-png.freepik.com/256/17609/17609510.png?semt=ais_white_label",
+          "title": "Compensación de Pérdidas Fiscales",
+          "subtitle": "Equilibramos entre vender inversiones con pérdida y con ganancia.",
+          "link": "/experts"
+        },
+        {
+          "icon": "https://cdn-icons-png.freepik.com/256/17609/17609510.png?semt=ais_white_label",
+          "title": "Unidades de Acciones Restringidas",
+          "subtitle": "Explora las opciones para otorgar acciones de la empresa a tus empleados.",
+          "link": "/experts"
+        },
+        {
+          "icon": "https://cdn-icons-png.freepik.com/256/17609/17609510.png?semt=ais_white_label",
+          "title": "Asesoría de Deuda",
+          "subtitle": "Nuestros expertos te brindan el conocimiento adecuado sobre asesoría de deudas.",
+          "link": "/experts"
+        },
+        {
+          "icon": "https://cdn-icons-png.freepik.com/256/17609/17609510.png?semt=ais_white_label",
+          "title": "Gestión del Riesgo Crediticio",
+          "subtitle": "Ofrecemos servicios integrales de gestión del riesgo crediticio.",
+          "link": "/experts"
+        }
+      ]
+    }
+  },
+
+  "footer": {
+    "navlink": [
+      {
+        "name": "Términos y Condiciones",
+        "url": "/privacyPolicy"
+      },
+      {
+        "name": "Preguntas Frecuentes",
+        "url": "/privacyPolicy"
+      },
+      {
+        "name": "Política de Privacidad",
+        "url": "/privacyPolicy"
+      },
+      {
+        "name": "Centro de Ayuda",
+        "url": "/privacyPolicy"
+      },
+      {
+        "name": "Documentos",
+        "url": "/privacyPolicy"
+      }
+    ]
+  },
+
+  "about": {
+    "hero": {
+      "title": "Misión y Valores",
+      "subtitle": "Estamos dedicados a la satisfacción del cliente y nos esforzamos por generar un impacto financiero positivo en la vida de nuestros clientes. Brindamos servicios de primera clase y las mejores soluciones para ofrecer resultados financieros sostenibles.",
+      "button": {
+        "text": "Comenzar",
+        "to": "/experts"
+      },
+      "image": "https://media.northwesternmutual.com/images/article/featured/2158-do-you-need-financial-advisor-1365436662.jpg"
+    },
+    "section_1": {
+      "banner": "Sobre la Empresa",
+      "title": "Sobre PPG Financial",
+      "subtitle_1": "PPG Financial es una empresa líder que ofrece servicios de gestión patrimonial y consultoría de primera clase en diversas industrias.",
+      "subtitle_2": "Aplicamos un enfoque holístico y prestamos la máxima atención para satisfacer las necesidades financieras de cada cliente y superar sus expectativas.",
+      "subtitle_3": "Cada situación es única y nuestros asesores expertos buscan crear una estrategia adecuada que aporte el equilibrio correcto a tu mezcla de activos.",
+      "subtitle_4": "Nos enfocamos en nuestra misión basada en nuestros valores día a día. Desde nuestra fundación, nos impulsa el objetivo de garantizar que nuestros clientes obtengan un futuro financiero estable.",
+      "image": "https://www.havenifa.co.uk/wordpress/wp-content/uploads/2025/01/224470369_s.jpg",
+      "vidgets": [
+        {
+          "title": "Impacto 1",
+          "subtitle": "Ayudamos a miles de clientes a resolver sus problemas financieros más difíciles",
+          "link": "/about"
+        },
+        {
+          "title": "Impacto 2",
+          "subtitle": "Brindamos servicios profesionales tanto para empresas como para particulares.",
+          "link": "/about"
+        },
+        {
+          "title": "Impacto 3",
+          "subtitle": "Nuestros expertos cuentan con experiencia en una amplia variedad de sectores.",
+          "link": "/about"
+        }
+      ]
+    }
+  },
+
+  "services": {
+    "hero": {
+      "title": "Misión y Valores",
+      "subtitle": "Estamos dedicados a la satisfacción del cliente y nos esforzamos por generar un impacto financiero positivo en la vida de nuestros clientes. Brindamos servicios de primera clase y las mejores soluciones para ofrecer resultados financieros sostenibles.",
+      "button": {
+        "text": "Comenzar",
+        "to": "/experts"
+      },
+      "image": "https://media.northwesternmutual.com/images/article/featured/2158-do-you-need-financial-advisor-1365436662.jpg"
+    },
+
+    "section_1": {
+      "banner": "Servicios",
+      "boxs": [
+        {
+          "title": "Gestión de Riesgos",
+          "subtitle_1": "PPG Financial es una empresa líder que ofrece servicios de gestión patrimonial y consultoría de primera clase en diversas industrias.",
+          "subtitle_2": "Gestión del riesgo crediticio;",
+          "subtitle_3": "Asesoría en gestión de activos;",
+          "subtitle_4": "Gestión del capital económico.",
+          "image": "https://dropinblog.net/cdn-cgi/image/fit=scale-down,width=700/34259869/files/featured/adobestock-538873848.jpeg"
+        },
+        {
+          "title": "Opciones sobre Acciones",
+          "subtitle_1": "PPG Financial es una empresa líder que ofrece servicios de gestión patrimonial y consultoría de primera clase en diversas industrias.",
+          "subtitle_2": "Asesoría de deuda;",
+          "subtitle_3": "Asesoría en gestión de activos;",
+          "subtitle_4": "Derechos de apreciación de acciones",
+          "image": "https://large-files-app-production.s3.amazonaws.com/tinymce/1692740651586_b78893ef-4a81-4a6f-96c8-0391992f7925_1692740652.jpeg"
+        },
+        {
+          "title": "Asesoría de Inversiones",
+          "subtitle_1": "Considerando la gran cantidad de opciones y alternativas de inversión, es recomendable contratar a un consultor de confianza que pueda brindarte un plan financiero bien pensado y orientado a resultados. ¡Siempre estamos listos para ayudarte!",
+          "subtitle_2": "Planes de opciones sobre acciones",
+          "subtitle_3": "Unidades de acciones restringidas",
+          "subtitle_4": "Derechos de apreciación de acciones",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqCpNgQIShZYv-gtvRFB35i6cdzZK0OzIeCw&s"
+        },
+        {
+          "title": "Planificación Fiscal",
+          "subtitle_1": "Nuestros asesores financieros experimentados brindan a los clientes consultas fiscales integrales para la jubilación, con una guía paso a paso para minimizar problemas y maximizar deducciones fiscales.",
+          "subtitle_2": "Asignación de activos",
+          "subtitle_3": "Diversificación fiscal",
+          "subtitle_4": "Estrategias de conversión Roth.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKTeDoJoLZ18ZeaDQnelG6P86ATcf3Ywr8zw&s"
+        }
+      ]
+    }
+  },
+  "experts": {
+    "section_1": {
+      "banner": "Expertos",
+      "title": "Expertos de PPG Financial",
+      "subtitle_1": "Contratamos personas excepcionales con gran experiencia. Entendemos las necesidades y problemas de cualquier industria empresarial.",
+      "subtitle_2": "Nuestro consejo ejecutivo incluye individuos que han estado con la empresa desde su fundación, ayudando a transformar a PPG Financial en una de las principales firmas independientes de gestión patrimonial del país.",
+      "subtitle_3": "Ya sea que tu objetivo sea mejorar el rendimiento empresarial, asegurarte de que todos los aspectos del riesgo empresarial estén cubiertos, buscar oportunidades de inversión o mejorar la eficiencia de tu negocio, nuestros expertos dedicados estarán encantados de ayudarte.",
+      "image": "https://dynl.mktgcdn.com/p/RPuViOHYlFhXpyf9boQpLPyoSJ07o4ed0BDbofRXCKQ/1900x1069.jpg",
+      "cards": [
+        {
+          "title": "Patrick Pool",
+          "subtitle": "Especialización: Finanzas Corporativas, Asesoría a Prestamistas, Comunicaciones Estratégicas, Riesgo Global",
+          "icon": "https://finadvisor.weblium.site/res/62f5e4a192942f000d1a1ebd/62fb8444233e75000de58e4e_optimized"
+        },
+        {
+          "title": "Edna Webster",
+          "subtitle": "Especialización: Riesgo Global, Finanzas Corporativas, Asesoría a Prestamistas, Planificación Financiera",
+          "icon": "https://finadvisor.weblium.site/res/62f5e4a192942f000d1a1ebd/62fb844083e98f000fa760b1_optimized"
+        },
+        {
+          "title": "Ann Perry",
+          "subtitle": "Especialización: Riesgo Global, Finanzas Corporativas, Asesoría a Prestamistas, Comunicaciones Estratégicas",
+          "icon": "https://finadvisor.weblium.site/res/62f5e4a192942f000d1a1ebd/62fb843dc90de8000dade600_optimized"
+        },
+        {
+          "title": "Trevor Bern",
+          "subtitle": "Especialización: Finanzas Corporativas, Asesoría a Prestamistas, Comunicaciones Estratégicas, Riesgo Global",
+          "icon": "https://finadvisor.weblium.site/res/62f5e4a192942f000d1a1ebd/62fb843fdae52c000d73860c_optimized"
+        },
+        {
+          "title": "Helen Stone",
+          "subtitle": "Especialización: Finanzas Corporativas, Asesoría a Prestamistas, Comunicaciones Estratégicas, Riesgo Global",
+          "icon": "https://finadvisor.weblium.site/res/62f5e4a192942f000d1a1ebd/62fb8442b1b9f7000d395591_optimized"
+        },
+        {
+          "title": "Jeff Owen",
+          "subtitle": "Especialización: Finanzas Corporativas, Asesoría a Prestamistas, Comunicaciones Estratégicas, Riesgo Global",
+          "icon": "https://finadvisor.weblium.site/res/62f5e4a192942f000d1a1ebd/62fb84413e5b47000d481731_optimized"
+        }
+      ]
+    }
+  },
+
+  "blog": {
+    "section_1": {
+      "banner": "Blog",
+      "image": "https://dynl.mktgcdn.com/p/RPuViOHYlFhXpyf9boQpLPyoSJ07o4ed0BDbofRXCKQ/1900x1069.jpg",
+      "cards": [
+        {
+          "title": "Patrick Pool",
+          "subtitle": "Especialización: Finanzas Corporativas, Asesoría a Prestamistas, Comunicaciones Estratégicas, Riesgo Global",
+          "image": "https://finadvisor.weblium.site/res/62f5e4a192942f000d1a1ebd/62fb8444233e75000de58e4e_optimized"
+        },
+        {
+          "title": "Edna Webster",
+          "subtitle": "Especialización: Riesgo Global, Finanzas Corporativas, Asesoría a Prestamistas, Planificación Financiera",
+          "image": "https://finadvisor.weblium.site/res/62f5e4a192942f000d1a1ebd/62fb844083e98f000fa760b1_optimized"
+        },
+        {
+          "title": "Ann Perry",
+          "subtitle": "Especialización: Riesgo Global, Finanzas Corporativas, Asesoría a Prestamistas, Comunicaciones Estratégicas",
+          "image": "https://finadvisor.weblium.site/res/62f5e4a192942f000d1a1ebd/62fb843dc90de8000dade600_optimized"
+        },
+        {
+          "title": "Trevor Bern",
+          "subtitle": "Especialización: Finanzas Corporativas, Asesoría a Prestamistas, Comunicaciones Estratégicas, Riesgo Global",
+          "image": "https://finadvisor.weblium.site/res/62f5e4a192942f000d1a1ebd/62fb843fdae52c000d73860c_optimized"
+        },
+        {
+          "title": "Helen Stone",
+          "subtitle": "Especialización: Finanzas Corporativas, Asesoría a Prestamistas, Comunicaciones Estratégicas, Riesgo Global",
+          "image": "https://finadvisor.weblium.site/res/62f5e4a192942f000d1a1ebd/62fb8442b1b9f7000d395591_optimized"
+        },
+        {
+          "title": "Jeff Owen",
+          "subtitle": "Especialización: Finanzas Corporativas, Asesoría a Prestamistas, Comunicaciones Estratégicas, Riesgo Global",
+          "image": "https://finadvisor.weblium.site/res/62f5e4a192942f000d1a1ebd/62fb84413e5b47000d481731_optimized"
+        }
+      ]
+    }
+  }
+}

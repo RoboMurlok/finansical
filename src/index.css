@@ -1,0 +1,190 @@
+:root {
+  --navLink: blue;
+  --navLinkHover: green;
+  --navLinkActive: green;
+  --colorBtn: black;
+  --bgBtn: gold;
+  --bgBtnHover: orange;
+  --bgBtnActive: gold;
+  --bgHeader: linear-gradient(90deg, gray, rgb(235, 235, 235));
+  --colorLogo: blue;
+  --bgVidget: white;
+  --bgBanner_1: linear-gradient(90deg, green, limegreen);
+  --bgBanner_2: rgb(255, 149, 0);
+  --bgFooter: black;
+  --bgCookieBanner: rgb(255, 255, 255);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  background: rgb(255, 246, 237);
+}
+
+h1 {
+  font-size: 4rem;
+  color: red;
+}
+
+h2 {
+  font-size: 3rem;
+}
+
+h3 {
+  font-size: 2rem;
+}
+
+h4 {
+  font-size: 1.5rem;
+}
+
+p {
+  font-size: 1.3rem;
+}
+
+span {
+  font-size: 1.1rem;
+  color: grey;
+}
+
+section {
+  width: 100%;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  padding: 2rem 0;
+}
+
+article {
+  width: 100%;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  padding: 0 5rem;
+}
+
+.container {
+  width: 100%;
+  margin: 0 auto;
+}
+
+.boxSmall {
+  margin: 0 auto;
+  max-width: 40vw;
+  max-height: 50vh;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.boxMedium {
+  margin: 0 auto;
+  max-width: 50vw;
+  max-height: 50vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+}
+
+.boxBig {
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  gap: 1rem;
+  background: white;
+ padding: 1rem;
+
+  margin: 0 2rem;
+}
+
+.revers {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: space-around;
+  align-items: center;
+  gap: 1rem;
+}
+
+.image {
+  width: 500px;
+  height: 500px;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.imageIcon {
+  width: 100px;
+  height: 100px;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  margin: 0 auto;
+}
+
+.imagePost {
+  width: 100%;
+  min-height: 200px;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  margin: 0 auto;
+}
+
+
+
+
+.banner_1 {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 5rem;
+  padding: 2rem;
+  background: var(--bgBanner_1);
+}
+
+.banner_2 {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 5rem;
+  padding: 2rem;
+  background: var(--bgBanner_2);
+}
+
+.link {
+  text-decoration: underline;
+  color: var(--navLink);
+  font-weight: bold;
+  cursor: pointer;
+
+  &:hover {
+    color: var(--navLinkHover);
+  }
+}
+
+.privacy{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+
+  padding: 10rem;
+  font-size: 1.5rem;
+
+}

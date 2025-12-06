@@ -1,0 +1,27 @@
+.card {
+  width: 400px;
+  min-height: 320px;
+  background: var(--bgVidget);
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 2rem;
+  padding: 2rem;
+
+  & a {
+   color: red;
+  }
+
+  & .circle {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background: blue;
+  }
+
+  & .content {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+  }
+}

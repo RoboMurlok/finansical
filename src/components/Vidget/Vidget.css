@@ -1,0 +1,10 @@
+.vidget {
+  flex: 1;
+  min-height: 240px;
+  background: var(--bgVidget);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 1rem;
+  padding: 2rem;
+}

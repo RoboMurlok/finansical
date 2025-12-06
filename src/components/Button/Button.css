@@ -1,0 +1,15 @@
+.btn{
+    padding: 1rem 3rem;
+    background: var(--bgBtn);
+    color: var(--colorBtn);
+    border: none;
+    cursor: pointer;
+
+    &:hover{
+        background: var(--bgBtnHover);
+    }
+
+    &:active{
+        background: var(--bgBtnActive);
+    }
+}

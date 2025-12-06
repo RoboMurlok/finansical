@@ -1,0 +1,12 @@
+header{
+    background:var(--bgHeader);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 10rem;
+
+    & .logo{
+        font-size: 2rem;
+        color: var(--colorLogo);
+    }
+}
